@@ -1,0 +1,807 @@
+2019-08-02 08:17:56,218  INFO [main] LogReports:22 - pass Tests are9
+2019-08-02 08:17:56,222  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-02 08:17:56,223  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-02 08:17:57,301  INFO [main] LogReports:22 - failed Tests are1
+2019-08-02 08:17:57,302  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-02 08:17:57,303  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-02 08:34:45,743  INFO [main] LogReports:22 - The first sorting passed
+2019-08-02 08:34:46,093  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-02 08:34:47,124  INFO [main] LogReports:22 - pass Tests are9
+2019-08-02 08:34:47,125  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-02 08:34:47,126  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-02 08:34:48,118  INFO [main] LogReports:22 - failed Tests are1
+2019-08-02 08:34:48,119  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-02 08:34:48,120  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-02 08:36:10,784  INFO [main] LogReports:22 - The first sorting passed
+2019-08-02 08:36:11,155  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-02 08:36:11,156  INFO [main] LogReports:22 - The second sorting passed
+2019-08-02 08:36:12,229  INFO [main] LogReports:22 - pass Tests are9
+2019-08-02 08:36:12,229  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-02 08:36:12,230  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-02 08:36:13,289  INFO [main] LogReports:22 - failed Tests are1
+2019-08-02 08:36:13,290  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-02 08:36:13,291  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-04 06:15:03,172  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-04 06:15:03,484  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-04 06:15:03,485  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 06:15:03,665  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-04 06:15:03,665  INFO [main] LogReports:22 - pass Tests are1
+2019-08-04 06:44:59,628  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-04 06:44:59,921  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-04 06:44:59,922  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 06:45:00,213  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-04 06:45:00,214  INFO [main] LogReports:22 - pass Tests are1
+2019-08-04 06:47:07,267  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-04 06:47:07,609  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-04 06:47:07,610  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 06:47:07,822  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-04 06:47:07,823  INFO [main] LogReports:22 - pass Tests are1
+2019-08-04 07:07:59,477  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-04 07:10:29,438  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-04 07:10:29,727  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-04 07:10:29,727  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 07:10:29,931  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-04 07:10:29,931  INFO [main] LogReports:22 - pass Tests are1
+2019-08-04 09:14:32,427  INFO [main] LogReports:22 - The first sorting passed
+2019-08-04 09:14:33,264  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-04 09:14:33,266  INFO [main] LogReports:22 - The second sorting passed
+2019-08-04 09:14:35,552  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 09:14:35,554  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-04 09:14:35,555  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-04 09:14:36,138  INFO [main] LogReports:22 - failed Tests are1
+2019-08-04 09:14:36,139  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-04 09:14:36,140  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-04 09:15:16,582  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 09:15:16,610  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-04 09:15:16,612  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-04 09:15:17,352  INFO [main] LogReports:22 - failed Tests are1
+2019-08-04 09:15:17,354  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-04 09:15:17,355  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-04 09:16:58,785  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-04 09:16:58,792  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-04 09:16:59,346  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-04 09:16:59,348  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 09:16:59,787  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-04 09:16:59,788  INFO [main] LogReports:22 - pass Tests are1
+2019-08-04 09:17:02,015  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 09:17:02,016  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-04 09:17:02,018  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-04 09:17:02,569  INFO [main] LogReports:22 - failed Tests are1
+2019-08-04 09:17:02,569  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-04 09:17:02,570  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-04 09:18:37,886  INFO [main] LogReports:22 - The first sorting passed
+2019-08-04 09:18:38,665  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-04 09:18:38,667  INFO [main] LogReports:22 - The second sorting passed
+2019-08-04 09:18:41,380  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 09:18:41,381  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-04 09:18:41,382  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-04 09:18:42,733  INFO [main] LogReports:22 - failed Tests are1
+2019-08-04 09:18:42,735  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-04 09:18:42,736  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-04 09:19:36,875  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 09:19:36,960  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-04 09:19:36,963  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-04 09:19:38,522  INFO [main] LogReports:22 - failed Tests are1
+2019-08-04 09:19:38,523  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-04 09:19:38,525  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-04 09:20:42,677  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-04 09:20:42,684  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-04 09:20:43,464  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-04 09:20:43,465  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 09:20:44,165  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-04 09:20:44,166  INFO [main] LogReports:22 - pass Tests are1
+2019-08-04 09:20:46,927  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 09:20:46,929  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-04 09:20:46,930  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-04 09:20:47,626  INFO [main] LogReports:22 - failed Tests are1
+2019-08-04 09:20:47,628  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-04 09:20:47,629  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-04 09:22:19,610  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-04-2019 (8).xlsxThis is the downloaded file present in the local system
+2019-08-04 09:22:47,021  INFO [main] LogReports:22 - The first sorting passed
+2019-08-04 09:22:48,532  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-04 09:22:48,534  INFO [main] LogReports:22 - The second sorting passed
+2019-08-04 09:22:51,527  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 09:22:51,530  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-04 09:22:51,532  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-04 09:23:20,205  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 09:23:20,206  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-04 09:23:20,207  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-04 09:23:51,801  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-04 09:23:51,802  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-04 09:23:52,454  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-04 09:23:52,455  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 09:23:52,981  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-04 09:23:52,982  INFO [main] LogReports:22 - pass Tests are1
+2019-08-04 09:23:55,558  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 09:23:55,560  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-04 09:23:55,561  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-04 09:23:58,600  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 09:23:58,601  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-04 09:23:58,602  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-04 09:23:59,865  INFO [main] LogReports:22 - failed Tests are1
+2019-08-04 09:23:59,866  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-04 09:23:59,867  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-04 09:24:01,223  INFO [main] LogReports:22 - failed Tests are1
+2019-08-04 09:24:01,224  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-04 09:24:01,225  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-04 09:24:02,541  INFO [main] LogReports:22 - failed Tests are1
+2019-08-04 09:24:02,542  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-04 09:24:02,542  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-04 09:24:04,041  INFO [main] LogReports:22 - failed Tests are1
+2019-08-04 09:24:04,042  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-04 09:24:04,043  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-04 09:29:07,017  INFO [main] LogReports:22 - pass Tests are9
+2019-08-04 09:29:07,041  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-04 09:29:07,042  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-04 09:29:08,995  INFO [main] LogReports:22 - failed Tests are1
+2019-08-04 09:29:09,002  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-04 09:29:09,004  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-04 23:07:33,614  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-04-2019 (14).xlsxThis is the downloaded file present in the local system
+2019-08-05 00:11:28,796  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\Rainbow-masterThis is the downloaded file present in the local system
+2019-08-05 00:11:31,131  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 00:11:31,139  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 00:11:31,140  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 00:11:32,836  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 00:11:32,836  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 00:11:32,838  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 00:13:49,901  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-05-2019.xlsxThis is the downloaded file present in the local system
+2019-08-05 00:13:51,315  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 00:13:51,321  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 00:13:51,322  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 00:13:52,583  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 00:13:52,584  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 00:13:52,584  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 00:18:39,690  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\8e4dfc48-5162-43d5-9ab7-e918f70730ca.tmpThis is the downloaded file present in the local system
+2019-08-05 00:18:41,782  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 00:18:41,783  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 00:18:41,783  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 00:18:42,862  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 00:18:42,863  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 00:18:42,863  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 00:20:40,561  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-05-2019 (2).xlsxThis is the downloaded file present in the local system
+2019-08-05 00:20:42,375  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 00:20:42,376  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 00:20:42,377  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 00:20:42,702  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 00:20:42,702  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 00:20:42,703  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 00:42:13,594  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\~$TestReport-REST API TEST RESULT-Web Services-08-05-2019.xlsxThis is the downloaded file present in the local system
+2019-08-05 00:42:15,332  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 00:42:15,333  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 00:42:15,334  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 00:42:15,647  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 00:42:15,647  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 00:42:15,648  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 06:29:39,609  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\~$TestReports.xlsxThis is the downloaded file present in the local system
+2019-08-05 06:29:43,296  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 06:29:43,297  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 06:29:43,297  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 06:29:44,345  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 06:29:44,345  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 06:29:44,346  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 06:32:10,365  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-05-2019 (1).xlsxThis is the downloaded file present in the local system
+2019-08-05 06:32:14,185  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 06:32:14,187  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 06:32:14,187  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 06:32:15,270  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 06:32:15,271  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 06:32:15,272  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 06:35:21,429  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-05-2019 (2).xlsxThis is the downloaded file present in the local system
+2019-08-05 06:35:24,960  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 06:35:24,961  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 06:35:24,962  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 06:35:26,037  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 06:35:26,038  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 06:35:26,039  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 06:39:55,986  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-05-2019 (3).xlsxThis is the downloaded file present in the local system
+2019-08-05 06:44:48,752  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-05-2019 (4).xlsxThis is the downloaded file present in the local system
+2019-08-05 07:26:42,512  INFO [main] LogReports:22 - 10the counts is
+2019-08-05 07:43:25,987  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-05-2019 (7).xlsxThis is the downloaded file present in the local system
+2019-08-05 07:43:28,412  INFO [main] LogReports:22 - Total testcounts10
+2019-08-05 07:43:28,510  INFO [main] LogReports:22 - pass testcounts9
+2019-08-05 07:43:28,609  INFO [main] LogReports:22 - fail testcounts1
+2019-08-05 07:45:19,986  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-05-2019 (8).xlsxThis is the downloaded file present in the local system
+2019-08-05 07:45:22,957  INFO [main] LogReports:22 - Total testcounts10
+2019-08-05 07:45:23,231  INFO [main] LogReports:22 - pass testcounts9
+2019-08-05 07:45:23,413  INFO [main] LogReports:22 - fail testcounts1
+2019-08-05 07:51:52,530  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-05-2019 (9).xlsxThis is the downloaded file present in the local system
+2019-08-05 07:51:55,247  INFO [main] LogReports:22 - Total testcounts10
+2019-08-05 07:51:55,400  INFO [main] LogReports:22 - pass testcounts9
+2019-08-05 07:51:55,552  INFO [main] LogReports:22 - fail testcounts1
+2019-08-05 09:14:06,091  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-05 09:14:06,095  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-05 09:14:06,281  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-05 09:14:06,282  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 09:14:06,482  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-05 09:14:06,483  INFO [main] LogReports:22 - pass Tests are1
+2019-08-05 09:14:25,748  INFO [main] LogReports:22 - The first sorting passed
+2019-08-05 09:14:26,112  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-05 09:14:26,113  INFO [main] LogReports:22 - The second sorting passed
+2019-08-05 09:16:48,707  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-05 09:16:48,711  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-05 09:16:49,043  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-05 09:16:49,043  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 09:16:49,276  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-05 09:16:49,276  INFO [main] LogReports:22 - pass Tests are1
+2019-08-05 09:18:09,916  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-05 09:18:09,920  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-05 09:18:10,273  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-05 09:18:10,274  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 09:18:10,547  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-05 09:18:10,548  INFO [main] LogReports:22 - pass Tests are1
+2019-08-05 09:18:12,038  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 09:18:12,038  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 09:18:12,039  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 09:18:13,091  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 09:18:13,092  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 09:18:13,093  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 23:02:01,890  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-05 23:02:01,894  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-05 23:02:02,296  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-05 23:02:02,296  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:02:02,532  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-05 23:02:02,533  INFO [main] LogReports:22 - pass Tests are1
+2019-08-05 23:02:04,154  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:02:04,155  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:02:04,155  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:02:05,197  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 23:02:05,198  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 23:02:05,198  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 23:04:54,476  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-05 23:04:54,481  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-05 23:04:54,817  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-05 23:04:54,818  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:04:54,995  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-05 23:04:54,996  INFO [main] LogReports:22 - pass Tests are1
+2019-08-05 23:04:55,916  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:04:55,917  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:04:55,917  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:04:56,170  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 23:04:56,170  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 23:04:56,171  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 23:06:42,045  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-05-2019 (10).xlsxThis is the downloaded file present in the local system
+2019-08-05 23:06:44,455  INFO [main] LogReports:22 - Total testcounts10
+2019-08-05 23:06:44,522  INFO [main] LogReports:22 - pass testcounts9
+2019-08-05 23:06:44,644  INFO [main] LogReports:22 - fail testcounts1
+2019-08-05 23:06:59,158  INFO [main] LogReports:22 - The first sorting passed
+2019-08-05 23:06:59,543  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-05 23:06:59,544  INFO [main] LogReports:22 - The second sorting passed
+2019-08-05 23:07:15,113  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:07:15,114  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:07:15,115  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:07:35,423  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:07:35,423  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:07:35,424  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:08:03,621  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-05 23:08:03,622  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-05 23:08:03,954  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-05 23:08:03,956  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:08:04,134  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-05 23:08:04,135  INFO [main] LogReports:22 - pass Tests are1
+2019-08-05 23:08:45,911  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:08:45,912  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:08:45,912  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:11:37,446  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-06-2019.xlsxThis is the downloaded file present in the local system
+2019-08-05 23:11:39,974  INFO [main] LogReports:22 - Total testcounts10
+2019-08-05 23:11:40,100  INFO [main] LogReports:22 - pass testcounts9
+2019-08-05 23:11:40,162  INFO [main] LogReports:22 - fail testcounts1
+2019-08-05 23:11:53,795  INFO [main] LogReports:22 - The first sorting passed
+2019-08-05 23:11:54,221  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-05 23:11:54,222  INFO [main] LogReports:22 - The second sorting passed
+2019-08-05 23:11:55,469  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:11:55,470  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:11:55,471  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:12:09,158  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:12:09,159  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:12:09,159  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:12:23,268  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-05 23:12:23,269  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-05 23:12:23,661  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-05 23:12:23,663  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:12:23,930  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-05 23:12:23,931  INFO [main] LogReports:22 - pass Tests are1
+2019-08-05 23:12:25,587  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:12:25,587  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:12:25,588  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:12:27,110  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:12:27,111  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:12:27,111  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:12:28,172  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 23:12:28,173  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 23:12:28,173  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 23:12:29,237  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 23:12:29,237  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 23:12:29,238  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 23:12:30,312  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 23:12:30,312  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 23:12:30,313  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 23:12:31,378  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 23:12:31,378  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 23:12:31,379  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 23:15:19,853  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\bc8b07cb-8037-4e51-b4fd-86d301c26191.tmpThis is the downloaded file present in the local system
+2019-08-05 23:15:22,008  INFO [main] LogReports:22 - Total testcounts10
+2019-08-05 23:15:22,109  INFO [main] LogReports:22 - pass testcounts9
+2019-08-05 23:15:22,198  INFO [main] LogReports:22 - fail testcounts1
+2019-08-05 23:15:35,694  INFO [main] LogReports:22 - The first sorting passed
+2019-08-05 23:15:36,144  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-05 23:15:36,145  INFO [main] LogReports:22 - The second sorting passed
+2019-08-05 23:15:37,461  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:15:37,463  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:15:37,463  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:15:51,570  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:15:51,571  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:15:51,572  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:16:06,896  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-05 23:16:06,897  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-05 23:16:07,262  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-05 23:16:07,264  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:16:07,521  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-05 23:16:07,522  INFO [main] LogReports:22 - pass Tests are1
+2019-08-05 23:16:09,153  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:16:09,154  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:16:09,155  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:16:10,629  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:16:10,629  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:16:10,630  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:16:11,709  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 23:16:11,710  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 23:16:11,710  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 23:16:12,776  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 23:16:12,777  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 23:16:12,777  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 23:16:13,899  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 23:16:13,900  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 23:16:13,900  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 23:16:14,927  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 23:16:14,928  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 23:16:14,928  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 23:18:03,573  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-06-2019 (2).xlsxThis is the downloaded file present in the local system
+2019-08-05 23:18:05,997  INFO [main] LogReports:22 - Total testcounts10
+2019-08-05 23:18:06,118  INFO [main] LogReports:22 - pass testcounts9
+2019-08-05 23:18:06,261  INFO [main] LogReports:22 - fail testcounts1
+2019-08-05 23:21:55,558  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-06-2019 (3).xlsxThis is the downloaded file present in the local system
+2019-08-05 23:21:57,210  INFO [main] LogReports:22 - Total testcounts10
+2019-08-05 23:21:57,292  INFO [main] LogReports:22 - pass testcounts9
+2019-08-05 23:21:57,428  INFO [main] LogReports:22 - fail testcounts1
+2019-08-05 23:23:07,018  INFO [main] LogReports:22 - The first sorting passed
+2019-08-05 23:23:07,400  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-05 23:23:07,400  INFO [main] LogReports:22 - The second sorting passed
+2019-08-05 23:24:25,065  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-05 23:24:25,071  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-05 23:24:25,527  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-05 23:24:25,528  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:24:25,834  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-05 23:24:25,835  INFO [main] LogReports:22 - pass Tests are1
+2019-08-05 23:25:18,055  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:25:18,067  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:25:18,068  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:25:19,135  INFO [main] LogReports:22 - failed Tests are1
+2019-08-05 23:25:19,136  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-05 23:25:19,136  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 23:29:56,597  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-05 23:29:56,601  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-05 23:29:56,931  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-05 23:29:56,931  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:29:57,177  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-05 23:29:57,177  INFO [main] LogReports:22 - pass Tests are1
+2019-08-05 23:30:12,319  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:30:12,321  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:30:12,323  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:44:04,315  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:44:04,329  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:44:04,330  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:44:16,355  INFO [main] LogReports:22 - failed Tests are0
+2019-08-05 23:44:16,358  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-05 23:45:07,818  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:45:07,831  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:45:07,832  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-05 23:46:02,651  INFO [main] LogReports:22 - pass Tests are9
+2019-08-05 23:46:02,665  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-05 23:46:02,665  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 00:00:40,411  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 00:00:40,422  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 00:00:40,422  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 00:01:26,204  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 00:01:26,218  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 00:01:26,219  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 00:02:18,518  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 00:02:18,530  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 00:02:18,531  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 00:06:54,010  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 00:06:54,023  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 00:06:54,024  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 00:10:40,324  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 00:10:40,336  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 00:10:40,337  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 00:55:04,078  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 00:55:04,091  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 00:55:04,092  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 00:56:08,781  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 00:56:08,793  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 00:56:08,794  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 00:56:22,021  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 00:56:22,022  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 00:56:22,022  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 00:57:49,600  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 00:57:49,605  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 00:57:50,012  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 00:57:50,012  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 00:57:50,232  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 00:57:50,233  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 00:58:04,970  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 00:58:04,972  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 00:58:04,973  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 00:58:18,507  INFO [main] LogReports:22 - The first sorting passed
+2019-08-06 00:58:18,949  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-06 00:58:18,950  INFO [main] LogReports:22 - The second sorting passed
+2019-08-06 00:58:32,657  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 00:58:32,658  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 00:58:32,659  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 00:58:46,669  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 00:58:46,672  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 00:58:46,673  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 00:59:01,474  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\7ffed2f9-af17-45ef-89f2-4f8251a5ebb6.tmpThis is the downloaded file present in the local system
+2019-08-06 00:59:03,683  INFO [main] LogReports:22 - Total testcounts10
+2019-08-06 00:59:03,780  INFO [main] LogReports:22 - pass testcounts9
+2019-08-06 00:59:03,926  INFO [main] LogReports:22 - fail testcounts1
+2019-08-06 00:59:18,528  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 00:59:18,529  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 00:59:18,530  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 00:59:31,545  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 00:59:31,546  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 00:59:31,547  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 00:59:45,702  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 00:59:45,704  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 00:59:45,704  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 01:00:02,188  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 01:00:02,189  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 01:00:02,190  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 01:01:46,187  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 01:01:46,192  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 01:01:46,566  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 01:01:46,567  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:01:46,767  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 01:01:46,768  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 01:01:59,860  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:01:59,863  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:01:59,863  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:03:25,665  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 01:03:25,670  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 01:03:26,066  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 01:03:26,067  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:03:26,365  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 01:03:26,366  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 01:03:40,408  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:03:40,410  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:03:40,411  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:04:50,082  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 01:04:50,087  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 01:04:50,456  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 01:04:50,457  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:04:50,679  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 01:04:50,679  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 01:04:52,026  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:04:52,027  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:04:52,027  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:04:53,201  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 01:04:53,201  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 01:04:53,202  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 01:08:16,616  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 01:08:16,620  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 01:08:16,992  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 01:08:16,993  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:08:17,239  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 01:08:17,240  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 01:09:13,213  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 01:09:13,218  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 01:09:13,567  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 01:09:13,568  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:09:13,860  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 01:09:13,861  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 01:10:47,389  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 01:10:47,393  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 01:10:47,760  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 01:10:47,761  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:10:48,005  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 01:10:48,006  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 01:17:33,942  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 01:17:33,947  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 01:17:34,270  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 01:17:34,271  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:17:34,490  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 01:17:34,490  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 01:17:47,427  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:17:47,429  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:17:47,429  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:18:00,629  INFO [main] LogReports:22 - The first sorting passed
+2019-08-06 01:18:01,103  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-06 01:18:01,104  INFO [main] LogReports:22 - The second sorting passed
+2019-08-06 01:18:14,921  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:18:14,921  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:18:14,922  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:18:29,031  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:18:29,033  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:18:29,034  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:18:44,720  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\ce7b9fa0-16c6-4201-8357-abb118fd2ffc.tmpThis is the downloaded file present in the local system
+2019-08-06 01:18:47,057  INFO [main] LogReports:22 - Total testcounts10
+2019-08-06 01:18:47,181  INFO [main] LogReports:22 - pass testcounts9
+2019-08-06 01:18:47,255  INFO [main] LogReports:22 - fail testcounts1
+2019-08-06 01:19:01,444  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:19:01,445  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:19:01,447  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:20:38,788  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-06-2019 (6).xlsxThis is the downloaded file present in the local system
+2019-08-06 01:20:40,067  INFO [main] LogReports:22 - Total testcounts10
+2019-08-06 01:20:40,166  INFO [main] LogReports:22 - pass testcounts9
+2019-08-06 01:20:40,269  INFO [main] LogReports:22 - fail testcounts1
+2019-08-06 01:20:54,436  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 01:20:54,438  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 01:20:54,439  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 01:21:43,467  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\3de0c72e-b88d-4cb5-8bb3-fbd959b2183c.tmpThis is the downloaded file present in the local system
+2019-08-06 01:21:45,420  INFO [main] LogReports:22 - Total testcounts10
+2019-08-06 01:21:45,595  INFO [main] LogReports:22 - pass testcounts9
+2019-08-06 01:21:45,674  INFO [main] LogReports:22 - fail testcounts1
+2019-08-06 01:22:35,825  INFO [main] LogReports:22 - The first sorting passed
+2019-08-06 01:22:36,275  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-06 01:22:36,276  INFO [main] LogReports:22 - The second sorting passed
+2019-08-06 01:23:08,191  INFO [main] LogReports:22 - The first sorting passed
+2019-08-06 01:23:08,636  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-06 01:23:08,637  INFO [main] LogReports:22 - The second sorting passed
+2019-08-06 01:24:14,173  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-06-2019 (7).xlsxThis is the downloaded file present in the local system
+2019-08-06 01:24:16,034  INFO [main] LogReports:22 - Total testcounts10
+2019-08-06 01:24:16,114  INFO [main] LogReports:22 - pass testcounts9
+2019-08-06 01:24:16,178  INFO [main] LogReports:22 - fail testcounts1
+2019-08-06 01:24:48,574  INFO [main] LogReports:22 - The first sorting passed
+2019-08-06 01:24:48,992  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-06 01:24:48,993  INFO [main] LogReports:22 - The second sorting passed
+2019-08-06 01:25:59,838  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:25:59,850  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:25:59,850  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:26:26,893  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:26:26,906  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:26:26,907  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:26:40,144  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 01:26:40,145  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 01:26:40,146  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 01:27:21,130  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 01:27:21,134  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 01:27:21,498  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 01:27:21,498  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:27:21,760  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 01:27:21,761  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 01:27:34,661  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:27:34,663  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:27:34,664  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:27:47,812  INFO [main] LogReports:22 - The first sorting passed
+2019-08-06 01:27:48,168  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-06 01:27:48,169  INFO [main] LogReports:22 - The second sorting passed
+2019-08-06 01:28:02,081  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:28:02,082  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:28:02,083  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:28:16,474  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:28:16,477  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:28:16,478  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:28:31,238  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\815e60f5-8a8e-43dd-8984-0155793b0ae1.tmpThis is the downloaded file present in the local system
+2019-08-06 01:28:34,288  INFO [main] LogReports:22 - Total testcounts10
+2019-08-06 01:28:34,493  INFO [main] LogReports:22 - pass testcounts9
+2019-08-06 01:28:34,580  INFO [main] LogReports:22 - fail testcounts1
+2019-08-06 01:28:48,984  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:28:48,985  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:28:48,985  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:29:02,909  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 01:29:02,910  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 01:29:02,911  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 01:29:15,904  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 01:29:15,906  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 01:29:15,907  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 01:29:29,396  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 01:29:29,397  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 01:29:29,398  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 01:32:06,758  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 01:32:06,762  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 01:32:07,053  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 01:32:07,054  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:32:07,276  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 01:32:07,276  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 01:32:19,447  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:32:19,450  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:32:19,451  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:32:34,493  INFO [main] LogReports:22 - The first sorting passed
+2019-08-06 01:32:34,967  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-06 01:32:34,968  INFO [main] LogReports:22 - The second sorting passed
+2019-08-06 01:33:11,507  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:33:11,508  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:33:11,509  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:33:31,018  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-06-2019 (9).xlsxThis is the downloaded file present in the local system
+2019-08-06 01:33:32,440  INFO [main] LogReports:22 - Total testcounts10
+2019-08-06 01:33:32,529  INFO [main] LogReports:22 - pass testcounts9
+2019-08-06 01:33:32,604  INFO [main] LogReports:22 - fail testcounts1
+2019-08-06 01:33:47,694  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:33:47,695  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:33:47,696  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:36:29,389  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 01:36:29,394  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 01:36:29,769  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 01:36:29,770  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:36:29,976  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 01:36:29,977  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 01:36:41,465  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:36:41,467  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:36:41,467  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:36:54,144  INFO [main] LogReports:22 - The first sorting passed
+2019-08-06 01:36:54,572  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-06 01:36:54,573  INFO [main] LogReports:22 - The second sorting passed
+2019-08-06 01:37:07,401  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:37:07,402  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:37:07,403  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:37:20,534  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:37:20,537  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:37:20,537  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:37:35,621  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\7d732971-0a2d-40d8-b13e-b1794ea04e51.tmpThis is the downloaded file present in the local system
+2019-08-06 01:37:38,590  INFO [main] LogReports:22 - Total testcounts10
+2019-08-06 01:37:38,773  INFO [main] LogReports:22 - pass testcounts9
+2019-08-06 01:37:38,851  INFO [main] LogReports:22 - fail testcounts1
+2019-08-06 01:37:52,725  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:37:52,726  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:37:52,726  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:42:15,591  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 01:42:15,594  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 01:42:15,937  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 01:42:15,938  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:42:16,148  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 01:42:16,149  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 01:42:17,431  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:42:17,432  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:42:17,433  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:42:18,637  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 01:42:18,637  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 01:42:18,637  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 01:47:59,451  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 01:47:59,457  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 01:47:59,773  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 01:47:59,774  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:47:59,982  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 01:47:59,983  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 01:48:01,155  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:48:01,156  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 01:48:01,156  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 01:48:01,571  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 01:48:01,571  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 01:48:01,571  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 01:54:41,560  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 01:54:41,564  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 01:54:41,949  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 01:54:41,950  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:54:42,279  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 01:54:42,280  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 01:56:15,938  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 01:56:15,942  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 01:56:16,309  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 01:56:16,310  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 01:56:16,525  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 01:56:16,526  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 02:01:38,080  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 02:01:38,086  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 02:01:38,429  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 02:01:38,430  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 02:01:38,666  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 02:01:38,666  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 02:01:40,001  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 02:01:40,001  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 02:01:40,002  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 02:01:41,217  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 02:01:41,218  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 02:01:41,218  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 02:04:18,139  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 02:04:18,143  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 02:04:18,493  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 02:04:18,493  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 02:04:18,738  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 02:04:18,739  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 02:04:20,080  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 02:04:20,080  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 02:04:20,081  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 02:04:21,434  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 02:04:21,435  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 02:04:21,435  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 02:10:09,851  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 02:10:09,863  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 02:10:09,864  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 02:10:11,142  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 02:10:11,142  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 02:10:11,143  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 02:25:15,460  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 02:25:15,464  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 02:25:15,797  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 02:25:15,798  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 02:25:16,062  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 02:25:16,063  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 02:26:55,918  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 02:26:55,923  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 02:26:56,265  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 02:26:56,265  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 02:26:56,517  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 02:26:56,517  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 02:28:42,876  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-06-2019 (11).xlsxThis is the downloaded file present in the local system
+2019-08-06 02:28:46,063  INFO [main] LogReports:22 - Total testcounts10
+2019-08-06 02:28:46,237  INFO [main] LogReports:22 - pass testcounts9
+2019-08-06 02:28:46,333  INFO [main] LogReports:22 - fail testcounts1
+2019-08-06 02:29:35,584  INFO [main] LogReports:22 - The first sorting passed
+2019-08-06 02:29:36,159  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-06 02:29:36,160  INFO [main] LogReports:22 - The second sorting passed
+2019-08-06 02:30:09,270  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\2eca6823-2e0b-45f2-b914-029dd8a989bf.tmpThis is the downloaded file present in the local system
+2019-08-06 02:30:13,130  INFO [main] LogReports:22 - Total testcounts10
+2019-08-06 02:30:13,282  INFO [main] LogReports:22 - pass testcounts9
+2019-08-06 02:30:13,414  INFO [main] LogReports:22 - fail testcounts1
+2019-08-06 02:30:55,978  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 02:30:55,985  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 02:30:56,460  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 02:30:56,461  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 02:30:56,780  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 02:30:56,781  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 02:31:28,130  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 02:31:28,147  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 02:31:28,148  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 02:31:29,719  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 02:31:29,720  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 02:31:29,721  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 02:33:45,193  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\a2d8e5d0-795b-4232-92f7-9f668743a8dd.tmpThis is the downloaded file present in the local system
+2019-08-06 02:33:47,519  INFO [main] LogReports:22 - Total testcounts10
+2019-08-06 02:33:47,653  INFO [main] LogReports:22 - pass testcounts9
+2019-08-06 02:33:47,773  INFO [main] LogReports:22 - fail testcounts1
+2019-08-06 03:19:49,157  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\5b6c8519-02aa-47e5-817f-f77fde941c6f.tmpThis is the downloaded file present in the local system
+2019-08-06 03:19:51,012  INFO [main] LogReports:22 - Total testcounts10
+2019-08-06 03:19:51,114  INFO [main] LogReports:22 - pass testcounts9
+2019-08-06 03:19:51,188  INFO [main] LogReports:22 - fail testcounts1
+2019-08-06 03:20:03,286  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 03:20:03,288  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 03:20:03,677  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 03:20:03,677  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 03:20:03,882  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 03:20:03,883  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 03:20:15,418  INFO [main] LogReports:22 - The first sorting passed
+2019-08-06 03:20:15,771  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-06 03:20:15,772  INFO [main] LogReports:22 - The second sorting passed
+2019-08-06 03:20:31,437  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 03:20:31,438  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 03:20:31,438  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 03:20:32,670  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 03:20:32,671  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 03:20:32,671  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 03:24:26,168  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\TestReport-REST API TEST RESULT-Web Services-08-06-2019 (15).xlsxThis is the downloaded file present in the local system
+2019-08-06 03:24:27,467  INFO [main] LogReports:22 - Total testcounts10
+2019-08-06 03:24:27,529  INFO [main] LogReports:22 - pass testcounts9
+2019-08-06 03:24:27,621  INFO [main] LogReports:22 - fail testcounts1
+2019-08-06 03:24:40,917  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 03:24:40,919  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 03:24:41,319  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 03:24:41,320  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 03:24:41,560  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 03:24:41,561  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 03:24:54,777  INFO [main] LogReports:22 - The first sorting passed
+2019-08-06 03:24:55,256  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-06 03:24:55,257  INFO [main] LogReports:22 - The second sorting passed
+2019-08-06 03:25:09,455  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 03:25:09,456  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 03:25:09,457  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 03:25:10,790  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 03:25:10,791  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 03:25:10,791  INFO [main] LogReports:22 - The fail test is matching the actual results
+2019-08-06 03:55:28,216  INFO [main] LogReports:22 - C:\Users\Vedha.Venkataraman\Downloads\94826fcb-8d7d-4d5f-8f90-4827e3b78caa.tmpThis is the downloaded file present in the local system
+2019-08-06 03:55:30,225  INFO [main] LogReports:22 - Total testcounts10
+2019-08-06 03:55:30,358  INFO [main] LogReports:22 - pass testcounts9
+2019-08-06 03:55:30,461  INFO [main] LogReports:22 - fail testcounts1
+2019-08-06 03:55:42,864  INFO [main] LogReports:22 - Passed : TOTAL COUNTS ARE EQUAL: Actual data : 10 Expected :10
+2019-08-06 03:55:42,866  INFO [main] LogReports:22 - The  test counts  is matching the actual results
+2019-08-06 03:55:43,227  INFO [main] LogReports:22 - Passed : passed counts are equal: Actual data : 9 Expected :9
+2019-08-06 03:55:43,227  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 03:55:43,465  INFO [main] LogReports:22 - Passed : failed counts are equal: Actual data : 1 Expected :1
+2019-08-06 03:55:43,466  INFO [main] LogReports:22 - pass Tests are1
+2019-08-06 03:55:56,829  INFO [main] LogReports:22 - The first sorting passed
+2019-08-06 03:55:57,240  INFO [main] LogReports:22 - Passed : The sorting passed: Actual data : [deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest] Expected :[deleteProjectApiTest, downloadImageApiTest, exportToExcelApiTest, getDashboardApiTest, invalidLinkApiTest, recentRunsApiTest, reportViewApiTest, uploadImageApiTest, uploadTestngResultFileApiTest, viewReportApiTest]
+2019-08-06 03:55:57,241  INFO [main] LogReports:22 - The second sorting passed
+2019-08-06 03:56:11,088  INFO [main] LogReports:22 - pass Tests are9
+2019-08-06 03:56:11,089  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 9 Expected :9
+2019-08-06 03:56:11,090  INFO [main] LogReports:22 - The pass test is matching the actual results
+2019-08-06 03:56:12,505  INFO [main] LogReports:22 - failed Tests are1
+2019-08-06 03:56:12,506  INFO [main] LogReports:22 - Passed : the pass tests  match the actual results: Actual data : 1 Expected :1
+2019-08-06 03:56:12,507  INFO [main] LogReports:22 - The fail test is matching the actual results

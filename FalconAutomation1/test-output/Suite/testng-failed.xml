@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.falcon.testscripts.viewpage.ViewPageTest">
+        <methods>
+          <include name="getFailTestResults"/>
+          <include name="endTest"/>
+          <include name="getPassTestResults"/>
+          <include name="intitailizeBrowser"/>
+        </methods>
+      </class> <!-- com.falcon.testscripts.viewpage.ViewPageTest -->
+      <class name="com.falcon.testscripts.viewpage.SortingTestCaseName">
+        <methods>
+          <include name="sortTestCaseNames"/>
+          <include name="endTest"/>
+          <include name="intitailizeBrowser"/>
+        </methods>
+      </class> <!-- com.falcon.testscripts.viewpage.SortingTestCaseName -->
+      <class name="com.falcon.testscripts.viewpage.ToggleDashboard">
+        <methods>
+          <include name="endTest"/>
+          <include name="validateToggleDashBoard"/>
+          <include name="intitailizeBrowser"/>
+        </methods>
+      </class> <!-- com.falcon.testscripts.viewpage.ToggleDashboard -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
